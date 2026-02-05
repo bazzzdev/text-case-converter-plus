@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Text Case Converter Plus",
+  "version": "1.0.0",
+  "description": "Tool for converting text case with various options",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "sidebar_action": {
+    "default_panel": "sidepanel.html",
+    "default_title": "Text Case Converter Plus",
+    "open_at_install": true
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": ["storage"],
+  "action": {
+    "default_title": "Open Text Case Converter Plus"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "text-case-converter@bazzz.dev"
+    }
+  }
+}
