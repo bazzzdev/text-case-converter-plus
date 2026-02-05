@@ -42,13 +42,7 @@ A convenient browser extension for quick text case conversion.
 3. Find **Text Case Converter Plus** and pin it to the toolbar for quick access.
 4. Click the extension icon to open the converter window.
 5. Copy and paste the text you want to modify into the input field.
-6. Use the available buttons to convert the text case:
-   - Uppercase
-   - Lowercase
-   - Sentence case
-   - Capitalized
-   - Alternating case
-   - Random case
+6. Use the available buttons to convert the text case.
 
 ## License
 
