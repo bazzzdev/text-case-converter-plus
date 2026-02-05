@@ -46,6 +46,10 @@ A convenient browser extension for quick text case conversion.
 
 MIT License
 
+## Screenshots
+
+![Text Case Converter Plus](https://github.com/bazzzdev/text-case-converter-plus/blob/main/screenshot.png)
+
 ## Support
 
 If you find a bug or have a suggestion, please create an [issue](../../issues).
