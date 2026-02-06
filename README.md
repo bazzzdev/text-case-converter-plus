@@ -1,3 +1,5 @@
+![Text Case Converter Plus](https://github.com/bazzzdev/text-case-converter-plus/blob/main/logo.png)
+
 # Text Case Converter Plus 🔄
 
 A convenient browser extension for quick text case conversion.
